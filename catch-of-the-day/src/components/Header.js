@@ -8,15 +8,15 @@ class Header extends React.Component {
       <header className='top'>
         <h1> 
           Catch 
-          <span className='OfThe'>
-           <span className='of'>Of</span>
-            <span className='the'>The</span>
+          <span className='ofThe'>
+           <span className='of'> Of </span>
+            <span className='the'> The </span>
           </span>
-         Day 
+          Day 
          </h1>  
-        <h3 className = 'tagline'>
-          <span > Fresh Daily Market </span> 
-        </h3>
+         <h3 className = 'tagline'>
+          <span > Fresh SeaFood Market </span> 
+          </h3>
       </header>
     );
   }
